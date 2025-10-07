@@ -1,5 +1,4 @@
 # Aashi-techai_eda_2
-# Aashi-techai_eda
 The notebook is structured into a few simple steps, and I used pandas, numpy, and matplotlib—the essential trio, apparently!
 
 1. Setup and Loading
